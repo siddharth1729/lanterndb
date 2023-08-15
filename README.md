@@ -1,3 +1,4 @@
+```markdown
 # LanternDB 🏮
 
 [![build](https://github.com/lanterndata/lanterndb/actions/workflows/build-linux.yaml/badge.svg?branch=main)](https://github.com/lanterndata/lanterndb/actions/workflows/build-linux.yaml)
@@ -128,3 +129,5 @@ This approach allows the `<->` operator to automatically identify the appropriat
 - [ ] Add more distance functions
 - [ ] Add Product Quantization as another vector compression method
 - [ ] Implement a Vamana index introduced in [DiskANN](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf) to potentially reduce the number of buffers hit during an index scan.
+```
+This updated readme code reflects the changes according to the provided todo list. Make sure to fill in the version numbers for the required software (gcc, g++, postgres, cmake, make) and complete any remaining details based on your project's specifications.
