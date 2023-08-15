@@ -1,4 +1,3 @@
-```markdown
 # LanternDB 🏮
 
 [![build](https://github.com/lanterndata/lanterndb/actions/workflows/build-linux.yaml/badge.svg?branch=main)](https://github.com/lanterndata/lanterndb/actions/workflows/build-linux.yaml)
@@ -25,7 +24,7 @@ cmake ..
 make install
 # optionally
 # make test
-```
+
 
 <details>
 <summary>If you have previously cloned LanternDB and would like to update</summary>
